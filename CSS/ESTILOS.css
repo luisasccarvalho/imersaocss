@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://images.madeiramadeira.com.br/product/images/29462762-kit-festa-painel-toalha-piso-em-lona-magali-turma-da-monicasku1654846683-657-2-800x800.jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: pink;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  } 
+  
+  .site-subtitle,
+  .site-title {
+    color: red;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-sytle: Italic;
+  }
+  
